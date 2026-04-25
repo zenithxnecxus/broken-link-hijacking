@@ -1,7 +1,7 @@
 # 🔗 Broken Link Hijacking Scanner
 
-**Version:** 2.0.0  
-**Author:** Zaidan (zenithx)  
+**Version:** 1.0.0  
+**Author:** zenithx  
 **Telegram:** @zenithx_9
 
 ---
@@ -41,6 +41,3 @@ pip install requests
 pip install colorama
 ```
 
-```bash
-pip install requests
-pip install colorama
