@@ -16,6 +16,10 @@ Broken Link Hijacking Scanner adalah tools untuk mendeteksi potensi kerentanan *
 - Membuat laporan hasil scanning
 
 ---
+## 📸 Screenshot
+
+![Screenshot 1](images/ss.jpg)
+---
 
 ## 🎯 Fitur
 
