@@ -39,5 +39,8 @@ Broken Link Hijacking Scanner adalah tools untuk mendeteksi potensi kerentanan *
 ```bash
 pip install requests
 pip install colorama
+git clone https://github.com/zenithxnecxus/broken-link-hijacking.git
+cd broken-link-hijacking
+python3 broken.py
 ```
 
